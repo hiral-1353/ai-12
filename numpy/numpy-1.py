@@ -19,6 +19,9 @@ print(arr_tup1)
 # Forward Indexing
 print("Element at row 0, column 1:", arr_2d[0][1])
 
+#Backward Indexing
+print("Last element:", arr_2d[-1][-1])
+
 # Slicing in 2D
 print("First two rows:\n", arr_2d[0:2])
 

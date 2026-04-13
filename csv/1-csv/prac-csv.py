@@ -35,4 +35,3 @@ with open("students.csv","a",newline="") as file:
 print("Updated")
 
 #os.rename("students.csv","list.csv")
-
